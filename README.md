@@ -1,0 +1,3 @@
+<h1 align="center">Maratona Discover - Rocketseat</h1>
+<p>A maratona Discover da Rocketseat é um evento online que o intrutor Mayk Brito desenvolve um projeto do zero, desde o HTML até o Javascript. Esses eventos são focados para iniciantes na área de front-end e é ótimo para ter outras referências de programação.</p>
+<p>A Rocketseat é uma plataforma de educação em tecnologia, que possui uma comunidade incrível. Eles possuem cursos gratuitos para iniciantes em HTML, CSS, Javascript, Git, GitHub e muitos outros. Confira o site da <a href="https://rocketseat.com.br/">Rocketseat</a>.</p>
